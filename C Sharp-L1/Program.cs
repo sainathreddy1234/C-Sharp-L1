@@ -102,4 +102,5 @@
 dynamic role = Console.ReadLine();
 bool isActive = (role == "Admin")? true : false;
 Console.WriteLine("Admin is: "+isActive);
+////git test
 
